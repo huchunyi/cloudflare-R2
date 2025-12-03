@@ -22,10 +22,10 @@
     <div class="project-links">
       <strong>项目:</strong><a href="https://www.bfbke.com/" target="_blank"
         rel="noopener noreferrer">FlareDrive-R2</a>
-      <strong>作者:</strong><a href="https://www.bfbke.com/" target="_blank"
+      <strong>作者:</strong><a href="https://t.me/Darkerdd" target="_blank"
         rel="noopener noreferrer">LiuShen</a>
       <strong>毕方资源网:</strong><a href="https://www.bfbke.com/" target="_blank"
-        rel="noopener noreferrer">Cloudflare-R2-OSS</a>
+        rel="noopener noreferrer">Bfbke-Pan-OSS</a>
     </div>
 
     <div class="powered">Powered by <a href="https://www.bfbke.com/" target="_blank"
